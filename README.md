@@ -14,7 +14,9 @@ exchange_money(300, 0.0075)  # Resultado: 40000.0
 
 ## Instalacion
 .Clona este repositorio o descarga el archivo Python:
+
 git clone https://github.com/Franmilolo/CalculoDivisa
+
 cd divisas
 
 .No necesitas instalar librerías externas, solo Python 3.13+.
